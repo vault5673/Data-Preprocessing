@@ -62,7 +62,7 @@ This project was implemented using Python and the following libraries: `pandas`,
 
 ## 👩‍💻 Author
 
-Made with 💻 by **[Pugalenthi]**
+Made with 💻 by **[Monfort Joel J]**
 
 ---
 
